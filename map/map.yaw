@@ -1,0 +1,13 @@
+!!!!MAIN
+#wall.png,collide
+-door.png,half_height
+|door.png,half_width
+
+############
+# #  | # # #
+# |  #     #
+# ########-#
+# #        #
+#-##########
+#         *#
+############
